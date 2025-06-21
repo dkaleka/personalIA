@@ -1,0 +1,10 @@
+{
+    "descricao": "Infraestrutura cognitiva para scraping e IA pessoal.",
+    "ambiente": {
+        "local": "ativo",
+        "github": "https://github.com/dkaleka/personalIA",
+        "nuvem": "a definir"
+    },
+    "gpt_responsavel": "ativo",
+    "executor_local": "ativo"
+}
