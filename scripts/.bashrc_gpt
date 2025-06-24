@@ -1,0 +1,17 @@
+# 🧠 Terminal Cognitivo GPT
+
+# 🔧 Garante que carrega o ambiente padrão do bash
+if [ -f ~/.bashrc ]; then
+    . ~/.bashrc
+fi
+
+# 🧠 Banner de identificação
+echo "🚀🧠 Terminal Cognitivo GPT ATIVADO 🧠🚀"
+
+# 🔥 Tudo que aparece no terminal → vai automaticamente para a área de transferência
+export PROMPT_COMMAND='history -a >(tee >(xclip -selection clipboard -i) >/dev/null)'
+
+# ✔️ Aliases úteis
+alias c='clear'
+alias gptclip="tee >(xclip -selection clipboard)"
+
