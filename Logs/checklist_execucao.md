@@ -3,6 +3,7 @@
 ## Tarefa
 
 | id      | descricao                                                 | status    | prioridade   |   índice_de_recomendacao |
+| STT#019 | Histórico completo da Sessão 06 — historico_chat_sessao06.md | ✅ Concluído | ⚙️ Média |                        85 |
 |:--------|:----------------------------------------------------------|:----------|:-------------|-------------------------:|
 | STT#009 | Sincronizar scripts com o GitHub                          | concluído | 🔥 Alta      |                      100 |
 | STT#010 | Executar diagnóstico do sistema com S-diagnostico.sh      | concluído | 🔥 Alta      |                      100 |
@@ -30,4 +31,3 @@
 | SUG#022 | Integrar script S-diagnostico.sh à abertura do terminal GPT    | adiado   | ⚙️ Média     |                       50 |
 | SUG#023 | Criar painel de comparação entre Git local e remoto            | adiado   | ⚙️ Média     |                       40 |
 | SUG#024 | Automatizar push do prompt_abertura.md ao final de cada sessão | adiado   | ⚙️ Média     |                       60 |
-
