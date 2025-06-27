@@ -1,2 +1,130 @@
-# checklist_execucao.json
-Conteúdo de exemplo para checklist_execucao.json.
+[
+    {
+        "id": "STT#009",
+        "tipo": "tarefa",
+        "descricao": "Sincronizar scripts com o GitHub",
+        "status": "conclu\u00eddo",
+        "prioridade": "\ud83d\udd25 Alta",
+        "\u00edndice_de_recomendacao": 100
+    },
+    {
+        "id": "STT#010",
+        "tipo": "tarefa",
+        "descricao": "Executar diagn\u00f3stico do sistema com S-diagnostico.sh",
+        "status": "conclu\u00eddo",
+        "prioridade": "\ud83d\udd25 Alta",
+        "\u00edndice_de_recomendacao": 100
+    },
+    {
+        "id": "STT#011",
+        "tipo": "tarefa",
+        "descricao": "Aplicar chmod -w nos scripts cr\u00edticos",
+        "status": "conclu\u00eddo",
+        "prioridade": "\u2699\ufe0f M\u00e9dia",
+        "\u00edndice_de_recomendacao": 70
+    },
+    {
+        "id": "STT#012",
+        "tipo": "tarefa",
+        "descricao": "Verificar a chave SSH com ssh -T git@github.com",
+        "status": "conclu\u00eddo",
+        "prioridade": "\ud83d\udd25 Alta",
+        "\u00edndice_de_recomendacao": 100
+    },
+    {
+        "id": "STT#013",
+        "tipo": "tarefa",
+        "descricao": "Testar comandos Git (git status, git push)",
+        "status": "conclu\u00eddo",
+        "prioridade": "\ud83d\udd25 Alta",
+        "\u00edndice_de_recomendacao": 100
+    },
+    {
+        "id": "STT#015",
+        "tipo": "tarefa",
+        "descricao": "Remover a pasta personalIA_PRE_RESTORE/",
+        "status": "conclu\u00eddo",
+        "prioridade": "\u2699\ufe0f M\u00e9dia",
+        "\u00edndice_de_recomendacao": 80
+    },
+    {
+        "id": "STT#016",
+        "tipo": "tarefa",
+        "descricao": "Validar e, se preciso, atualizar prompt base de reconex\u00e3o",
+        "status": "pendente",
+        "prioridade": "\ud83d\udfe1 Baixa",
+        "\u00edndice_de_recomendacao": 60
+    },
+    {
+        "id": "STT#017",
+        "tipo": "tarefa",
+        "descricao": "Remover commit de teste do GitHub",
+        "status": "conclu\u00eddo",
+        "prioridade": "\u2699\ufe0f M\u00e9dia",
+        "\u00edndice_de_recomendacao": 75
+    },
+    {
+        "id": "DRT#005",
+        "tipo": "diretriz",
+        "descricao": "Criar entrada no Git para snapshot 'Configura\u00e7\u00e3o Swap Completa'",
+        "status": "pendente",
+        "prioridade": "\ud83d\udfe2 Baixa",
+        "\u00edndice_de_recomendacao": 70
+    },
+    {
+        "id": "DRT#006",
+        "tipo": "diretriz",
+        "descricao": "Criar README.md resumido sobre estado atual restaurado",
+        "status": "pendente",
+        "prioridade": "\ud83d\udfe2 Baixa",
+        "\u00edndice_de_recomendacao": 70
+    },
+    {
+        "id": "DRT#007",
+        "tipo": "diretriz",
+        "descricao": "Confirmar consist\u00eancia do checklist_execucao.json com estado atual",
+        "status": "pendente",
+        "prioridade": "\ud83d\udfe0 M\u00e9dia",
+        "\u00edndice_de_recomendacao": 75
+    },
+    {
+        "id": "DRT#008",
+        "tipo": "diretriz",
+        "descricao": "Consolidar historico_chat_sessao04T.md como sess\u00e3o t\u00e9cnica ou arquivar",
+        "status": "pendente",
+        "prioridade": "\u2699\ufe0f M\u00e9dia",
+        "\u00edndice_de_recomendacao": 65
+    },
+    {
+        "id": "SUG#021",
+        "tipo": "sugestao",
+        "descricao": "Criar atalho visual (dashboard local)",
+        "status": "adiado",
+        "prioridade": "\u2699\ufe0f M\u00e9dia",
+        "\u00edndice_de_recomendacao": 50
+    },
+    {
+        "id": "SUG#022",
+        "tipo": "sugestao",
+        "descricao": "Integrar script S-diagnostico.sh \u00e0 abertura do terminal GPT",
+        "status": "adiado",
+        "prioridade": "\u2699\ufe0f M\u00e9dia",
+        "\u00edndice_de_recomendacao": 50
+    },
+    {
+        "id": "SUG#023",
+        "tipo": "sugestao",
+        "descricao": "Criar painel de compara\u00e7\u00e3o entre Git local e remoto",
+        "status": "adiado",
+        "prioridade": "\u2699\ufe0f M\u00e9dia",
+        "\u00edndice_de_recomendacao": 40
+    },
+    {
+        "id": "SUG#024",
+        "tipo": "sugestao",
+        "descricao": "Automatizar push do prompt_abertura.md ao final de cada sess\u00e3o",
+        "status": "adiado",
+        "prioridade": "\u2699\ufe0f M\u00e9dia",
+        "\u00edndice_de_recomendacao": 60
+    }
+]

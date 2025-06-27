@@ -1,2 +1,17 @@
-# checklist_execucao.csv
-Conteúdo de exemplo para checklist_execucao.csv.
+id,tipo,descricao,status,prioridade,índice_de_recomendacao
+STT#009,tarefa,Sincronizar scripts com o GitHub,concluído,🔥 Alta,100
+STT#010,tarefa,Executar diagnóstico do sistema com S-diagnostico.sh,concluído,🔥 Alta,100
+STT#011,tarefa,Aplicar chmod -w nos scripts críticos,concluído,⚙️ Média,70
+STT#012,tarefa,Verificar a chave SSH com ssh -T git@github.com,concluído,🔥 Alta,100
+STT#013,tarefa,"Testar comandos Git (git status, git push)",concluído,🔥 Alta,100
+STT#015,tarefa,Remover a pasta personalIA_PRE_RESTORE/,concluído,⚙️ Média,80
+STT#016,tarefa,"Validar e, se preciso, atualizar prompt base de reconexão",pendente,🟡 Baixa,60
+STT#017,tarefa,Remover commit de teste do GitHub,concluído,⚙️ Média,75
+DRT#005,diretriz,Criar entrada no Git para snapshot 'Configuração Swap Completa',pendente,🟢 Baixa,70
+DRT#006,diretriz,Criar README.md resumido sobre estado atual restaurado,pendente,🟢 Baixa,70
+DRT#007,diretriz,Confirmar consistência do checklist_execucao.json com estado atual,pendente,🟠 Média,75
+DRT#008,diretriz,Consolidar historico_chat_sessao04T.md como sessão técnica ou arquivar,pendente,⚙️ Média,65
+SUG#021,sugestao,Criar atalho visual (dashboard local),adiado,⚙️ Média,50
+SUG#022,sugestao,Integrar script S-diagnostico.sh à abertura do terminal GPT,adiado,⚙️ Média,50
+SUG#023,sugestao,Criar painel de comparação entre Git local e remoto,adiado,⚙️ Média,40
+SUG#024,sugestao,Automatizar push do prompt_abertura.md ao final de cada sessão,adiado,⚙️ Média,60
