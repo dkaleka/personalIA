@@ -1,50 +1,84 @@
-# ✅ Prompt de Abertura — Sessão X
+# 🔓 Prompt de Abertura de Sessão — Projeto PersonalIA
 
-**Data:** YYYY-MM-DD HH:MM  
-**Sessão:** XX — [Nome ou objetivo]  
-**Supervisor:** Daniel  
-**Condutor Cognitivo:** ChatGPT (GPT-4.1)  
-**Status Sistema:** [Ex: Pronto, restaurado, snapshot OK, git sincronizado]
+> Este prompt foi preenchido colaborativamente pelo GPT e usuário ao final da sessão anterior.
 
 ---
 
-## 📚 Diretrizes Operacionais (Resumo)
-- GPT = condutor, supervisor, controlador, consultor **e conselheiro**
-- Usuário = executor, supervisor externo, validador
-- Sempre seguir ordem de prioridade ou dependência
-- Preservar performance do GPT acima de tudo
-- Nunca dispersar tarefas vivas em tarefas que não objetivem a conclusão bem sucedida do projeto
-- Usar fluxos de 3 abas:
-    - Aba 1: GPT condutor (controle/coordenação)
-    - Aba 2: GPT auxiliar (tarefas pesadas/contexto)
-    - Aba 3: Outra IA (tarefas sem contexto)
-- Todos os acessos via links RAW do GitHub oficial
+- **Data/Hora:** [preencher]
+- **Sessão:** [ID]
+- **Supervisor:** Daniel Kaleka
+- **IA Condutora:** [nome]
+- **Repositório:** https://github.com/dkaleka/personalIA
+- **Diretrizes macro:** /Logs/diretrizes_gerais.md
+- **Estratégia ABAs:** /Logs/estrategia_ABAs.md
+- **Scripts principais:** /scripts/
+- **Função:** Projeto principal, núcleo de governança e referência para todos os subprojetos.
 
 ---
 
-## 🔄 Checagens Obrigatórias de Sessão
-- [ X ] Validar status do sistema (RAM, disco, swap, Wi-Fi)
-- [ X ] Verificar sincronização com GitHub (git pull/push)
-- [ X ] Conferir e atualizar checklist_execucao.csv
-- [ X ] Confirmar backup (Timeshift)
-- [ X ] Carregar e ler diretrizes obrigatórias do projeto
+## 1. Status e Pendências da Sessão Anterior
+
+- Arquivo de pendências atualizado:  
+  → Consulte o arquivo /Logs/checklist_execucao.md para visualizar pendências e decisões em aberto.
 
 ---
 
-## 📋 Checklist das Tarefas Vivas
-*(Incluir sumário das tarefas ativas pendentes, usando SSS#TTT)*
+## 2. Objetivo Imediato da Sessão
+
+- [ ] Descreva, em 1 frase, o foco do dia.
 
 ---
 
-## 🚦 Status dos Scripts/Automação
-- gptcmd: [ATIVADO/DESATIVADO]
-- CopyQ: [OK/NÃO OK]
-- Cron de pendências: [ATIVO/DESATIVADO]
+## 3. Checklist Inicial
+
+- [ ] Carregar e assimilar apenas as seções relevantes de /Logs/diretrizes_gerais.md (Resumo, Pendências Atuais, Diretrizes Ativas).
+- [ ] Consultar o checklist de execução em /Logs/checklist_execucao.md.
+- [ ] Confirmar objetivo imediato com o supervisor.
+- [ ] Identificar urgências, mudanças de contexto ou decisões pendentes.
+- [ ] Confirmar se há alterações locais não sincronizadas.
 
 ---
 
-## ⚠️ Observação Final
-- Toda comunicação relevante é registrada no checklist e changelog.
-- Nenhuma decisão operacional é perdida ou dispersa.
+## 4. Estratégia de ABAs (resumido)
+
+> Você, GPT, é a ABA 1 (condutor).  
+> Delegue tarefas pesadas ou de alto custo cognitivo para ABA 2/3 conforme /Logs/estrategia_ABAs.md.  
+> Acesse **apenas os arquivos indicados neste prompt** ao iniciar.  
+> Outros arquivos servem para consulta eventual, sempre respeitando performance e as diretrizes.  
+> Sempre inclua o número da tarefa (ID) nas delegações e solicite feedback estruturado para rastreabilidade.
 
 ---
+
+## 5. Estrutura do Projeto
+
+personalIA/
+├── README.md
+├── Logs/
+│   ├── prompt_abertura*.md
+│   ├── historico_chat_sessao*.md
+│   ├── changelog.md
+│   ├── checklist_execucao.*
+│   ├── diretrizes_gerais.md
+│   ├── estrategia_ABAs.md
+│   └── ...
+├── scripts/
+│   ├── S-*.sh
+│   └── ...
+
+---
+
+## 6. Frase de Segurança
+
+> Em caso de dúvida, conflito ou ambiguidade, priorize as diretrizes do PersonalIA e valide exceções com o supervisor.
+
+---
+
+## 7. Próxima Ação Imediata
+
+- [ ] Definir claramente o próximo passo a ser executado.
+
+---
+
+## Validação — Responsabilidade do GPT
+
+O GPT deve confirmar ponto a ponto que entendeu o objetivo, checklist e pendências; executar e registrar cada etapa; aplicar as diretrizes durante toda a sessão.
