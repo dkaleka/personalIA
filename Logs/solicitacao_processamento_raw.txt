@@ -1,0 +1,35 @@
+# Solicitação de Processamento RAW — PersonalIA
+
+## Instruções rápidas
+1. Marque com [x] os arquivos/tarefas desejadas abaixo (apenas substitua o espaço por x).
+2. Se desejar, preencha "Outro(s)" com o nome do(s) arquivo(s) específico(s).
+3. Após editar, selecione tudo (Ctrl+A) e copie (Ctrl+C) para colar na ABA2/GPT.
+
+---
+
+### [ ] Logs/checklist_execucao.md           — Checklist de execução de tarefas
+### [ ] Logs/changelog.md                   — Registro de alterações (changelog)
+### [ ] Logs/diretrizes_gerais.md           — Diretrizes gerais do projeto
+### [ ] scripts/S-001_check_light.sh        — Script de checagem rápida
+### [ ] scripts/S-002_check_completo.sh     — Script de checagem completa
+### [ ] Outro(s): __________________________
+
+---
+
+#### Solicitações (marque as desejadas com [x]):
+- [ ] Listar todas as tarefas pendentes
+- [ ] Sumarizar as 3 pendências mais críticas
+- [ ] Extrair todas as decisões registradas
+- [ ] Sumarizar diretrizes essenciais
+- [ ] [Outro(s)]: ___________________________________________
+
+---
+
+## Instruções para a ABA2/GPT:
+1. Gere o link RAW do GitHub para cada arquivo marcado.
+2. Acesse o conteúdo do(s) arquivo(s).
+3. Execute as tarefas marcadas acima.
+4. Apresente a resposta no formato solicitado (checklist, sumário, relatório Markdown, etc).
+5. Se algum arquivo for muito grande, processe apenas as partes relevantes.
+
+---
