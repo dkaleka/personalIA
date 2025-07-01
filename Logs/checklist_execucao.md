@@ -31,3 +31,33 @@
 | SUG#022 | Integrar script S-diagnostico.sh à abertura do terminal GPT    | adiado   | ⚙️ Média     |                       50 |
 | SUG#023 | Criar painel de comparação entre Git local e remoto            | adiado   | ⚙️ Média     |                       40 |
 | SUG#024 | Automatizar push do prompt_abertura.md ao final de cada sessão | adiado   | ⚙️ Média     |                       60 |
+
+# Tarefas criadas na Sessão 06 (29/06/2025)
+
+- S06#004: Scan e sumarização dos arquivos centrais de documentação (relatório de pendências importantes)
+- S06#005: Gestão ativa de checklists pelo GPT (registro e baixa de tarefas, automatização de comandos, comunicação ativa)
+- S06#006: Fornecimento obrigatório de comandos prontos (echo, sed, awk etc.) para manipulação automatizada de arquivos
+- S06#007: Extração e filtragem de tarefas pendentes de arquivos integrais de sessão (Google Notebook → ABA2 → ABA1 fluxo)
+- S06#008: Checklist obrigatório de manipulação e manutenção de arquivos por sessão
+- S06#009: Relatório consolidado de diretrizes e obrigações cognitivas do ChatGPT
+
+
+# Tarefas criadas na Sessão 06 (29/06/2025)
+
+- S06#004: Scan e sumarização dos arquivos centrais de documentação (relatório de pendências importantes)
+- S06#005: Gestão ativa de checklists pelo GPT (registro e baixa de tarefas, automatização de comandos, comunicação ativa)
+- S06#006: Fornecimento obrigatório de comandos prontos (echo, sed, awk etc.) para manipulação automatizada de arquivos
+- S06#007: Extração e filtragem de tarefas pendentes de arquivos integrais de sessão (Google Notebook → ABA2 → ABA1 fluxo)
+- S06#008: Checklist obrigatório de manipulação e manutenção de arquivos por sessão
+- S06#009: Relatório consolidado de diretrizes e obrigações cognitivas do ChatGPT
+
+
+# Tarefas criadas na Sessão 06 (29/06/2025)
+
+- S06#004: Scan e sumarização dos arquivos centrais de documentação (relatório de pendências importantes)
+- S06#005: Gestão ativa de checklists pelo GPT (registro e baixa de tarefas, automatização de comandos, comunicação ativa)
+- S06#006: Fornecimento obrigatório de comandos prontos (echo, sed, awk etc.) para manipulação automatizada de arquivos
+- S06#007: Extração e filtragem de tarefas pendentes de arquivos integrais de sessão (Google Notebook → ABA2 → ABA1 fluxo)
+- S06#008: Checklist obrigatório de manipulação e manutenção de arquivos por sessão
+- S06#009: Relatório consolidado de diretrizes e obrigações cognitivas do ChatGPT
+
