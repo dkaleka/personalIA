@@ -121,11 +121,9 @@ chmod +x S07_exemplo_script.sh
 [Resumo]: Diagnóstico resumido.
 [Resultado]: (Cole aqui o output/análise)
 
-
 ## Template de entrada de log
 
 2025-07-01 10:00, S08#002, Atualização do blueprint, executado com sucesso, log salvo.
-
 
 ## Arquivo soberano e autossuficiente — revisão obrigatória ao início de cada sessão!
 ---
@@ -133,20 +131,5 @@ chmod +x S07_exemplo_script.sh
 **Esse é o arquivo consolidado, pronto para ser salvo como `Logs/diretrizes_gerais.md`.**
 Se desejar algum ajuste, posso inserir ou remover trechos imediatamente. Se estiver validado, já pode seguir com o passo de salvar e sincronizar!
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### 🔒 Diretriz Operacional Permanente — Execução no Terminal do Usuário
 
