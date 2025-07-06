@@ -1,0 +1,11 @@
+[
+  {
+    "time": "2025-07-06T00:11:53.336Z",
+    "action": "send",
+    "text": "🟢 Teste básico de logging — etapa 1",
+    "proseMirrorLength": 0,
+    "buttonFound": true,
+    "status": "sent",
+    "domSnapshot": "<script>!function(){try{var d=document.documentElement,c=d.classList;c.remove('light','dark');var e=localStorage.getItem('theme');if('system'===e||(!e&&true)){var t='(prefers-color-scheme: dark)',m=window.matchMedia(t);if(m.media!==t||m.matches){d.style.colorScheme = 'dark';c.add('dark')}else{d.style.colorScheme = 'light';c.add('light')}}else if(e){c.add(e|| '')}if(e==='light'||e==='dark')d.style.colorScheme=e}catch(e){}}()</script><span data-testid=\"blocking-initial-modals-done\" class=\"hidden\">"
+  }
+]
